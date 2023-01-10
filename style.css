@@ -1,0 +1,30 @@
+body {
+    background-color:firebrick;
+    color: white;
+    text-align: center;
+    font-family: Lobster;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.kuvapukista {
+    height: 35vw;
+    align-: center;
+}
+
+.kuvateksti {
+    font-size: small;
+}
+
+#otsikko {
+    font-size: larger;
+}
+
+h1 {
+    
+}
+
+p {
+    font-size: large;
+    font-family: Arial;
+}
